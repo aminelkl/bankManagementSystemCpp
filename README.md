@@ -1,14 +1,14 @@
 # Bank management system
 
-A simple bank management system , that can handle 4 options :
+A simple bank management system , that can handle 4 features :
 - Open New Account
 - Display existing account
 - Deposit Money 
 - Display Money
 
-Note :
-- Account number are automatically created by the system
-- Type of account can only be (checking or saving) account, error are handled
+Specification :
+- Account number are automatically created by the system.
+- Type of account can only be (checking or saving) account, error are handled.
 - All account are stored in a vector
 
 
